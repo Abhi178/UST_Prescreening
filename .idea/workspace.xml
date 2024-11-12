@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc20d2fd-c5a6-42a2-a196-33a99d08db11" name="Changes" comment="code changes">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_prime.py" afterDir="false" />
+    <list default="true" id="cc20d2fd-c5a6-42a2-a196-33a99d08db11" name="Changes" comment="UST_Code_changes">
+      <change afterPath="$PROJECT_DIR$/Program_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UST_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/UST_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UST_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/UST_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit_Test_Module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_Test_Module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +30,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Abhi178"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abhi178&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Abhi178/UST_Prescreening.git",
-    "accountId": "c77a4351-829e-47a0-b55f-fc9ba74f2ad2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Abhi178/UST_Prescreening.git&quot;,
+    &quot;accountId&quot;: &quot;c77a4351-829e-47a0-b55f-fc9ba74f2ad2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -57,10 +53,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in Unit_Test_Module.py.executor": "Run",
     "Python tests.Python tests in test_prime.py.executor": "Run",
+    "Python.Program_3.executor": "Run",
     "Python.UST_1.executor": "Run",
     "Python.UST_2.executor": "Run",
     "Python.calval.executor": "Run",
+    "Python.pro.executor": "Run",
     "Python.unittest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -91,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731426652220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UST_Code_changes">
+      <option name="closed" value="true" />
+      <created>1731438019897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731438019897</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="code changes" />
+    <MESSAGE value="UST_Code_changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="UST_Code_changes" />
   </component>
 </project>
