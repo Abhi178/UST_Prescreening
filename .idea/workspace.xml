@@ -4,24 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc20d2fd-c5a6-42a2-a196-33a99d08db11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UST_prescreening.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UST_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UST_2.py" afterDir="false" />
+    <list default="true" id="cc20d2fd-c5a6-42a2-a196-33a99d08db11" name="Changes" comment="code changes">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UST_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/UST_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UST_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/UST_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Abhi178"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Abhi178/UST_Prescreening.git",
+    "accountId": "c77a4351-829e-47a0-b55f-fc9ba74f2ad2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -33,10 +57,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_prime.py.executor": "Run",
     "Python.UST_1.executor": "Run",
     "Python.UST_2.executor": "Run",
+    "Python.calval.executor": "Run",
+    "Python.unittest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Abhishek/PycharmProjects/UST_prescreening"
   }
 }]]></component>
@@ -56,6 +83,30 @@
       <option name="presentableId" value="Default" />
       <updated>1731424860126</updated>
     </task>
+    <task id="LOCAL-00001" summary="code changes">
+      <option name="closed" value="true" />
+      <created>1731426652220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731426652220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="code changes" />
   </component>
 </project>
