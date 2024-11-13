@@ -1,6 +1,6 @@
 import math
 
-# functions
+# Add, Subtract, multiply, divide, prime number & Even number functions defined
 def addNumbers(a, b):
     print("Sum is ", a + b)
 

@@ -1,5 +1,5 @@
-# importing limited functions
-# defined in calc.py
+# importing functions from File 1
+
 from All_Functions_1 import addNumbers, multiplyNumbers, subtractNumbers, divideNumbers
 
 
