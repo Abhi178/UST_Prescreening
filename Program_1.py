@@ -9,10 +9,8 @@ for i in input_string.split(' '):
     if i.isalnum():      #Using isalnum method to compare numbers and alphabets
         if i not in dict_Freq:
             dict_Freq[i] = 1
-        elif i in dict_Freq:
+        else:
             dict_Freq[i] = dict_Freq[i] + 1
-    else:
-        pass
 print(dict_Freq)
 sorted_dict_Freq = sorted(dict_Freq.items(), key = operator.itemgetter(0))   # Using Sorting technique in Dictionary
 print(sorted_dict_Freq)
