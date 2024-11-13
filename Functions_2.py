@@ -1,4 +1,4 @@
-# importing functions from File 1
+# importing functions from File 1 All_Functions_1.py
 
 from All_Functions_1 import addNumbers, multiplyNumbers, subtractNumbers, divideNumbers
 
